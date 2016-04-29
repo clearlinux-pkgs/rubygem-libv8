@@ -4,7 +4,7 @@
 #
 Name     : rubygem-libv8
 Version  : 3.16.14.7
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/libv8-3.16.14.7.gem
 Source0  : https://rubygems.org/downloads/libv8-3.16.14.7.gem
 Summary  : No detailed summary available
